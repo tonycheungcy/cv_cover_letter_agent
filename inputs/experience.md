@@ -7,8 +7,8 @@ GitHub: github.com/tonycheung
 Location: Hong Kong (Right to work in HK, open to relocation)
 
 Education:
-MSc Industrial Engineering & Decision Analytics, HKUST (expected 2026) — top 5%
-BSc Data Science, HKUST (2023) — First Class Honors, top 3 students
+MSc Industrial Engineering & Decision Analytics, HK Top University (expected 2026) — top 5%
+BSc Data Science, HK Top University (2023) — First Class Honors, top 3 students
 
 Work Experience:
 Data Analytics Intern, TechFlow Solutions (Jun 2023 - Sep 2023)
@@ -27,12 +27,12 @@ Capstone Project: Demand Forecasting with LLM-Powered Feature Engineering
 - Achieved 14% lower MAPE compared to baseline ARIMA on 10K+ SKU dataset
 - Deployed model to cloud function serving 500+ daily predictions
 
-Supply Chain Optimization - HKUST Supply Chain Course
+Supply Chain Optimization - HK Top University Supply Chain Course
 - Modeled facility location problem for regional distribution network using Gurobi and Python
 - Recommended 3 facility closures and 2 new sites, saving $2.1M annually in fixed costs
 - Built sensitivity analysis for demand growth scenarios (5%, 10%, 15%)
 
-Data Visualization Dashboard — HKUST Career Services
+Data Visualization Dashboard — HK Top University Career Services
 - Created interactive Tableau dashboard tracking 200+ student internship outcomes and salary progression
 - Automated ETL pipeline using Python (Pandas) to clean and merge data from 5 university systems
 - Dashboard adopted by career office for annual report — reduced manual reporting time by 75%
@@ -45,6 +45,6 @@ Tools: Gurobi, Git, AWS (S3, EC2, SageMaker), Docker, Airflow
 Languages: Fluent English and Cantonese (Written & Verbal), Conversational Mandarin
 
 Honors & Awards:
-Dean's List — HKUST (Fall 2021, Spring 2022, Fall 2022, Spring 2023)
-HKUST Data Science Competition — 1st Place (2023)
-MSc Scholarship — HKUST (2025)
+Dean's List — HK Top University (Fall 2021, Spring 2022, Fall 2022, Spring 2023)
+HK Top University Data Science Competition — 1st Place (2023)
+MSc Scholarship — HK Top University (2025)

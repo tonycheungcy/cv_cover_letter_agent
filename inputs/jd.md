@@ -1,8 +1,8 @@
 Junior Data Scientist (Welcome Fresh Graduate)
-Lane Crawford · Hong Kong, Hong Kong SAR (On-site)
+Top Retail Company · Hong Kong, Hong Kong SAR (On-site)
 
 About the job:
-Lane Crawford is an internationally renowned luxury department store with over 175 years of success, delivering an exceptional and eclectic product curation with dynamic Asian spirit and values. As the Data Scientist, you will be part of the team leveraging machine learning and statistical analysis to develop data-driven solutions and improve business decision-making.
+Top Retail Company is an internationally renowned luxury department store with over 175 years of success, delivering an exceptional and eclectic product curation with dynamic Asian spirit and values. As the Data Scientist, you will be part of the team leveraging machine learning and statistical analysis to develop data-driven solutions and improve business decision-making.
 
 The Role:
 - Mine, manipulate and perform statistical analysis on multiple data sets to build scalable enterprise analytics solutions

@@ -1,31 +1,28 @@
-# CV Match Analysis — Tony Cheung
+# Step 2 Analysis — CV Match vs JD for Junior Data Scientist
 
-## Best Fits (Experience Mapping to JD Requirements)
+## Best Fits (Experience → JD Requirement)
 
-1. **Data Analytics Intern, TechFlow Solutions** — Directly maps to *"mine, manipulate and perform statistical analysis on multiple data sets"* and *"select features, build, and optimize classifiers"*. The churn analysis (5,000+ users) demonstrates statistical modeling and business impact ($120K annual savings).
-
-2. **Operations Analytics Intern, Global Logistics Corp** — Maps to *"apply advanced statistical and machine learning techniques to build, maintain, and improve on multiple real-time decision systems"* and *"generate and validate hypotheses with A/B, multi-variate methods"*. The A/B testing framework for warehouse slotting and presentation to director-level stakeholders align with campaign impact measurement.
-
-3. **Supply Chain Optimization (HKUST Course)** — Maps to *"build, maintain, and improve on multiple real-time decision systems"* through facility location modeling and sensitivity analysis.
-
-4. **Capstone Project: Demand Forecasting** — Demonstrates *"advanced statistical and machine learning techniques"* (XGBoost, LLM-powered feature extraction) and business outcome (14% lower MAPE vs ARIMA baseline).
-
-5. **Data Visualization Dashboard (HKUST Career Services)** — Shows *"analyze data and draw insights from large data sets"* and *"visualization"* skills (Tableau, Power BI, Plotly, Dash).
+1. **Python/SQL Programming** — JD requires Python or SQL; CV shows Python (Pandas, NumPy, Scikit-learn, XGBoost, PyTorch) + SQL, with 2 internships and 3 projects using Python for data manipulation
+2. **Statistical Analysis & Hypothesis Testing** — JD requires distributions, hypothesis testing, linear regression; CV shows A/B testing framework design (Global Logistics Corp) and time-series forecasting with MAPE comparison
+3. **ML Techniques** — JD requires clustering, decision trees; CV shows XGBoost, scikit-learn, PyTorch, and LLM-powered feature engineering in capstone project
+4. **Data Manipulation at Scale** — JD requires mining/manipulating multiple data sets; CV shows ETL pipeline merging 5 university systems, 10K+ SKU dataset, 5,000+ user churn analysis
+5. **Scalable Analytics Solutions** — JD requires scalable enterprise solutions; CV shows cloud-deployed model serving 500+ daily predictions and automated dashboards
 
 ## Missing Evidence (Gaps)
 
-1. **Formal Statistics Foundation** — While the BSc in Data Science covers statistics, the CV lacks explicit mention of coursework in probability theory, multivariate analysis, or experimental design beyond "exposure". The JD prefers *"exposure in statistical concepts, such as distributions, hypothesis testing and linear regression is preferred"* — the CV mentions this as a preference rather than demonstrated mastery.
-
-2. **Advanced ML Techniques** — The JD lists *"basic machine learning techniques including clustering, decision trees"* as required. The CV shows strong ML experience (churn prediction, A/B testing, XGBoost) but frames it as applied rather than emphasizing the underlying algorithmic understanding.
-
-3. **Real-Time Decision Systems** — The JD emphasizes *"multiple real-time decision systems"*. The CV describes static analytics (dashboards, reports) and optimization projects but doesn't explicitly mention deploying models in production environments or managing live decision pipelines.
-
-4. **Certifications** — The JD expects a bachelor's/master's in a quantitative field. The CV states the MSc is *"expected 2026"*, meaning the candidate is still a fresh graduate. While this aligns with the "fresh graduates are welcome" note, the lack of immediate credential strength could be a minor concern.
+1. **No explicit clustering or decision tree project** — JD specifically mentions these; CV shows scikit-learn exposure but no named project
+2. **No multi-variate testing** — JD mentions multi-variate; CV only shows A/B testing
+3. **No real-time decision systems** — JD mentions real-time decision systems; CV shows cloud deployment but not explicitly real-time
+4. **No CNN/RNN exposure** — Optional in JD, but worth noting
 
 ## What to Emphasize
 
-- **Quantify impact** more consistently across all bullets (already strong in experience section)
-- **Frame experience as "real-time"** where applicable (e.g., A/B testing framework for warehouse slotting, real-time dashboard updates)
-- **Highlight statistical rigor** — explicitly mention hypothesis testing, significance testing, and confidence intervals in the CV
-- **Connect projects to business outcomes** more clearly (the capstone already does this well with 14% MAPE improvement)
-- **Show cross-functional collaboration** — the capstone was a team effort and the logistics internship involved 3 product teams
+1. Lead with the **A/B testing framework** — directly maps to JD's hypothesis testing requirement
+2. Highlight the **XGBoost + LLM feature engineering** as evidence of classifier building and feature selection
+3. Emphasize **Python + SQL + statistical concepts** as the core technical foundation
+4. Position the **data science competition 1st place** as credibility anchor
+5. Frame the **cloud deployment** as evidence of building scalable solutions
+
+## Honest Assessment
+
+The candidate is a strong fit for a fresh-graduate junior data scientist role. The two internships plus three projects provide sufficient evidence of practical data science skills. The main gap is explicit clustering/decision tree work, which can be addressed in the cover letter by framing scikit-learn exposure as foundational knowledge rather than claiming direct project experience.
